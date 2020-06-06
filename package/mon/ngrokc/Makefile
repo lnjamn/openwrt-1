@@ -1,7 +1,7 @@
 include $(TOPDIR)/rules.mk
 
-PKG_NAME:=ngrok-c
-PKG_VERSION:=20191102
+PKG_NAME:=ngrokc
+PKG_VERSION:=1.54
 PKG_RELEASE:=1
 PKG_REV:=e465a7062e6bf4a89ba6f0de83744f75c1ff0321
 
